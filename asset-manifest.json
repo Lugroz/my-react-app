@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lugroz/my-react-app/static/css/main.f855e6bc.css",
+    "main.js": "/Lugroz/my-react-app/static/js/main.b9db6191.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Lugroz/my-react-app/static/js/453.ad6eb26e.chunk.js",
+    "static/media/logo.svg": "/Lugroz/my-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Lugroz/my-react-app/index.html",
+    "main.f855e6bc.css.map": "/Lugroz/my-react-app/static/css/main.f855e6bc.css.map",
+    "main.b9db6191.js.map": "/Lugroz/my-react-app/static/js/main.b9db6191.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Lugroz/my-react-app/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b9db6191.js"
+  ]
+}
